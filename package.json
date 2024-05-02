@@ -1,0 +1,20 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Whole project\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "apps/odtkm",
+    "apps/mhtm",
+    "shared"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

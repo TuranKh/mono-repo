@@ -1,0 +1,12 @@
+{
+  "name": "odtkm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"ODTKM test\""
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
